@@ -1,4 +1,4 @@
-stonecutter active "26.3"
+stonecutter active "1.21.11"
 
 // See https://stonecutter.kikugie.dev/wiki/config/params
 stonecutter parameters {

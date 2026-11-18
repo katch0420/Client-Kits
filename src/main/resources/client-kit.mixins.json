@@ -1,9 +1,8 @@
 {
   "required": true,
-  "package": "com.example.mixin",
+  "package": "dev.katch0420.mixin",
   "compatibilityLevel": "${java}",
   "mixins": [
-    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
